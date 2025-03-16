@@ -14,12 +14,6 @@ A fun and customizable Ping Pong game made with Python and Pygame. Play solo aga
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots or GIFs here if available)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3
